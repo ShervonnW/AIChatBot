@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
@@ -73,3 +74,7 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+=======
+# AIChatBot
+Built a ChatBot with Nuxt, TypeScript and the OpenAI Assistants API. 
+>>>>>>> 0d669b18fd8eec47f5a140a9853fde022c176de1
